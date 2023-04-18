@@ -17,6 +17,6 @@
         return right
 ```
 ## Tasks for today
-[ ] End GH skills
-[ ] Dive into backtest example
-[ ] Dive into from_orders
+-[ ] End GH skills
+-[ ] Dive into backtest example
+-[ ] Dive into from_orders
