@@ -16,3 +16,7 @@
                 right = mid-1
         return right
 ```
+## Tasks for today
+[ ] End GH skills
+[ ] Dive into backtest example
+[ ] Dive into from_orders
